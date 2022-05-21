@@ -1,1 +1,1 @@
-Sitemap: https://evmckinney9.github.io/blog/sitemap.xml
+Sitemap: https://evm9.dev/sitemap.xml
