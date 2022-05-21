@@ -41,7 +41,7 @@ minima:
   social_links:
     linkedin: evm9
     github: evmckinney9
-    stackoverflow: 11246174
+    stackoverflow: '11246174'
 
 # Set this to true to get LaTeX math equation support
 use_math: true
