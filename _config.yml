@@ -39,11 +39,11 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+#     twitter: 
+    github: evmckinney9
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
@@ -55,10 +55,10 @@ show_image: false
 annotations: false
 
 # Set this to true to display tags on each post
-show_tags: true
+show_tags: false
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: G-7E0N4LFDRS
 
 exclude:
   - docker-compose.yml
