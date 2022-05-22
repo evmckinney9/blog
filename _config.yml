@@ -85,7 +85,7 @@ html_escape:
 future: true
 theme: minima
 plugins:
-  - jekyll-scholars
+  - jekyll-scholar
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
